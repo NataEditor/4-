@@ -1,0 +1,8 @@
+print("Введите слово ")
+my_sting = input()
+print( len(my_sting))
+print(my_sting.upper())
+print(my_sting.lower())
+print(my_sting.replace(" " ,"" ))
+print(my_sting[0])
+print(my_sting[-1])
